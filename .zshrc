@@ -17,8 +17,8 @@ antigen bundle colored-man-pages
 antigen bundle command-not-found
 antigen bundle common-aliases
 antigen bundle copybuffer
-antigen bundle copydir
 antigen bundle copyfile
+antigen bundle copypath
 antigen bundle cp
 antigen bundle dirhistory
 antigen bundle docker
@@ -56,7 +56,7 @@ antigen bundle sparsick/ansible-zsh
 antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle zsh-users/zsh-completions
 antigen bundle zsh-users/zsh-syntax-highlighting 
-antigen bundle unixorn/git-extra-commands
+antigen bundle unixorn/git-extra-commands@main
 
 # My stuff
 antigen bundle allmightyroot/zshdotfiles.mac
