@@ -1,5 +1,5 @@
 # Stuff from dotfiles (https://github.com/denysdovhan/dotfiles.git)
-alias rm='/usr/local/bin/grm -I'
+# alias rm='/usr/local/bin/grm -I'
 
 # Commands Shortcuts
 # alias e="$EDITOR"
