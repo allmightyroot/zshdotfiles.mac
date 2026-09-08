@@ -55,7 +55,7 @@ antigen bundle zsh-navigation-tools
 antigen bundle sparsick/ansible-zsh
 antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle zsh-users/zsh-completions
-antigen bundle zsh-users/zsh-syntax-highlighting 
+antigen bundle zsh-users/zsh-syntax-highlighting
 antigen bundle unixorn/git-extra-commands@main
 
 # My stuff

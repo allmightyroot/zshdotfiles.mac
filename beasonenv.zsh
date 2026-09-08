@@ -1,4 +1,4 @@
-#!/bin/zsh 
+#!/bin/zsh
 
 # My GPG Key ID
 export KEYID=0x2f580f2d4315f522
